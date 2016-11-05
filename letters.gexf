@@ -3158,7 +3158,7 @@
           <attvalue for="modularity" value="11"></attvalue>
         </attvalues>
         <viz:size value="10.0"></viz:size>
-        <viz:position x="-602.6613" y="-191.69739"></viz:position>
+        <viz:position x="-602.6613" y="-194.71442"></viz:position>
         <viz:color r="0" g="200" b="255"></viz:color>
       </node>
       <node id="567" label="family">
@@ -4033,7 +4033,7 @@
         <viz:position x="-724.89185" y="-956.961"></viz:position>
         <viz:color r="206" g="56" b="59"></viz:color>
       </node>
-      <node id="602" label="TOPIC_2">
+      <node id="602" label="Pakistan">
         <attvalues>
           <attvalue for="modularity" value="2"></attvalue>
         </attvalues>
@@ -4065,7 +4065,7 @@
         <viz:position x="-367.65448" y="-727.819"></viz:position>
         <viz:color r="0" g="127" b="64"></viz:color>
       </node>
-      <node id="606" label="TOPIC_6">
+      <node id="606" label="China">
         <attvalues>
           <attvalue for="modularity" value="6"></attvalue>
         </attvalues>
@@ -4089,7 +4089,7 @@
         <viz:position x="682.135" y="597.5677"></viz:position>
         <viz:color r="136" g="197" b="0"></viz:color>
       </node>
-      <node id="609" label="TOPIC_9">
+      <node id="609" label="International Development">
         <attvalues>
           <attvalue for="modularity" value="9"></attvalue>
         </attvalues>
@@ -4105,7 +4105,7 @@
         <viz:position x="-189.5044" y="-854.3655"></viz:position>
         <viz:color r="166" g="213" b="97"></viz:color>
       </node>
-      <node id="611" label="TOPIC_11">
+      <node id="611" label="Industry">
         <attvalues>
           <attvalue for="modularity" value="11"></attvalue>
         </attvalues>
@@ -4113,7 +4113,7 @@
         <viz:position x="-929.39594" y="-308.86203"></viz:position>
         <viz:color r="0" g="200" b="255"></viz:color>
       </node>
-      <node id="612" label="TOPIC_12">
+      <node id="612" label="Honduras">
         <attvalues>
           <attvalue for="modularity" value="12"></attvalue>
         </attvalues>
@@ -4161,7 +4161,7 @@
         <viz:position x="758.9905" y="-705.9943"></viz:position>
         <viz:color r="114" g="67" b="4"></viz:color>
       </node>
-      <node id="618" label="TOPIC_18">
+      <node id="618" label="England">
         <attvalues>
           <attvalue for="modularity" value="18"></attvalue>
         </attvalues>
@@ -4177,7 +4177,7 @@
         <viz:position x="367.1651" y="820.4484"></viz:position>
         <viz:color r="173" g="202" b="240"></viz:color>
       </node>
-      <node id="620" label="TOPIC_20">
+      <node id="620" label="Political Affairs Department">
         <attvalues>
           <attvalue for="modularity" value="20"></attvalue>
         </attvalues>
@@ -4185,7 +4185,7 @@
         <viz:position x="-510.90012" y="792.6167"></viz:position>
         <viz:color r="0" g="141" b="167"></viz:color>
       </node>
-      <node id="621" label="TOPIC_21">
+      <node id="621" label="Elections">
         <attvalues>
           <attvalue for="modularity" value="21"></attvalue>
         </attvalues>
@@ -4201,7 +4201,7 @@
         <viz:position x="507.4398" y="-616.3428"></viz:position>
         <viz:color r="255" g="109" b="255"></viz:color>
       </node>
-      <node id="623" label="TOPIC_23">
+      <node id="623" label="India">
         <attvalues>
           <attvalue for="modularity" value="23"></attvalue>
         </attvalues>
@@ -4241,7 +4241,7 @@
         <viz:position x="-887.32434" y="465.71213"></viz:position>
         <viz:color r="125" g="170" b="255"></viz:color>
       </node>
-      <node id="628" label="TOPIC_28">
+      <node id="628" label="Human Rights">
         <attvalues>
           <attvalue for="modularity" value="28"></attvalue>
         </attvalues>
